@@ -5,7 +5,6 @@ using namespace std;
 int main()
 {
 
-	cout << "\\    /\\ " <<endl;
-	cout << "\\    /\\ " << endl;
+	cout << "고양이문제 해결완료";
 	
 }
