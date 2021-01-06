@@ -5,6 +5,6 @@ using namespace std;
 int main()
 {
 
-	cout << "안녕하세요";
+	cout << "하이!! 안녕하세요";
 	
 }
